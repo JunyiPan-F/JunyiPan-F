@@ -6,7 +6,7 @@ I'm [Florence Pan](https://www.linkedin.com/in/florence-pan/), a Senior Computer
 - 🎓 Senior at Lehigh University, pursuing a degree in Computer Science.
 - 💡 Passionate about software development and machine learning.
 - 🌐 Always curious and eager to explore new technologies and frameworks.
-
+****
 ### 🌟 Experience
 **Software Engineer Intern at Studio Corsair** - Full Stack Development ***Spring 2024***
 
@@ -15,7 +15,7 @@ I'm [Florence Pan](https://www.linkedin.com/in/florence-pan/), a Senior Computer
 **Web Developer at Lehigh University** - Web Development ***Summer 2023***
 
 **STEM-SI Researcher at Lehigh University** - Data Analysis ***Summer 2022***
-
+****
 ### 🤖 Technologies
 
 <!--
