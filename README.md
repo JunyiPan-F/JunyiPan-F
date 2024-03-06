@@ -8,9 +8,9 @@ I'm Florence Pan, a Senior Computer Science student at Lehigh University. Welcom
 - 🌐 Always curious and eager to explore new technologies and frameworks.
 
 ## Experience
-** Software Engineer Intern at Studio Corsair ** - Full Stack Development **Duration:** Spring 2024
+**Software Engineer Intern at Studio Corsair** - Full Stack Development *Spring 2024*
 
-** Software Engineer Intern at Dapa Technology ** - C# Developer [Sum]
+**Software Engineer Intern at Dapa Technology** - C# Developer *Summer 2023*
 
 <!--
 **JunyiPan-F/JunyiPan-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
