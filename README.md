@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Florence Pan, a Senior Computer Science student at Lehigh University. Welcome to my GitHub profile! 🚀
+
+## About Me
+- 🎓 Senior at Lehigh University, pursuing a degree in Computer Science.
+- 💡 Passionate about software development and machine learning.
+- 🌐 Always curious and eager to explore new technologies and frameworks.
 <!--
 **JunyiPan-F/JunyiPan-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
