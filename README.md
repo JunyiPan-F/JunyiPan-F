@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Florence Pan, a Senior Computer Science student at Lehigh University. Welcome to my GitHub profile! 🚀
+[Link to LinkedIn](https://www.linkedin.com/in/florence-pan/ “My Portfolio Website”)
 
 ### 😎 About Me
 - 🎓 Senior at Lehigh University, pursuing a degree in Computer Science.
@@ -8,13 +9,15 @@ I'm Florence Pan, a Senior Computer Science student at Lehigh University. Welcom
 - 🌐 Always curious and eager to explore new technologies and frameworks.
 
 ### 🌟 Experience
-**Software Engineer Intern at Studio Corsair** - Full Stack Development *Spring 2024*
+**Software Engineer Intern at Studio Corsair** - Full Stack Development ***Spring 2024***
 
-**Software Engineer Intern at Dapa Technology** - C# Developer *Summer 2023*
+**Software Engineer Intern at Dapa Technology** - C# Developer ***Summer 2023***
 
-**Web Developer at Lehigh University** - Web Development *Summer 2023*
+**Web Developer at Lehigh University** - Web Development ***Summer 2023***
 
-**STEM-SI Researcher at Lehigh University** - Data Analysis *Summer 2022*
+**STEM-SI Researcher at Lehigh University** - Data Analysis ***Summer 2022***
+
+### 🤖 Technologies
 
 <!--
 **JunyiPan-F/JunyiPan-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
