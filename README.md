@@ -8,7 +8,7 @@
 ### 🌟 Experience
 **Software Engineer Intern at Studio Corsair** - Full Stack Development ***Spring 2024***
 
-**Software Engineer Intern at Dapa Technology** - C# Developer ***Summer 2023***
+**Software Engineer Intern at Dapa Technology** - C# Developement & Machine Learning ***Summer 2023***
 
 **Web Developer at Lehigh University** - Web Development ***Summer 2023***
 
