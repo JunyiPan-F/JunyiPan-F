@@ -1,7 +1,5 @@
-::
-<p align="center">
-  Hi there 👋 I'm [Florence Pan](https://www.linkedin.com/in/florence-pan/)
-</p>
+### <p align="center"> Hi there 👋 I'm [Florence Pan](https://www.linkedin.com/in/florence-pan/) </p>
+
 ### 😎 About Me
 - 🎓 Senior at Lehigh University, pursuing a degree in Computer Science.
 - 💡 Passionate about software development and machine learning.
