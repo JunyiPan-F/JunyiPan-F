@@ -25,6 +25,24 @@ I'm [Florence Pan](https://www.linkedin.com/in/florence-pan/), a Senior Computer
 
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge" />
 
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+
 <!--
 **JunyiPan-F/JunyiPan-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
