@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 ****
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyiPan-F)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunyiPan-F&layout=compact)
 <!--
 **JunyiPan-F/JunyiPan-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
