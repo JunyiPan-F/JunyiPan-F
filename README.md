@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm [Florence Pan](https://www.linkedin.com/in/florence-pan/), a Senior Computer Science student at Lehigh University. Welcome to my GitHub profile! 🚀  
+::### Hi there 👋 I'm [Florence Pan](https://www.linkedin.com/in/florence-pan/)::
 
 ### 😎 About Me
 - 🎓 Senior at Lehigh University, pursuing a degree in Computer Science.
