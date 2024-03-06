@@ -17,7 +17,7 @@ I'm [Florence Pan](https://www.linkedin.com/in/florence-pan/), a Senior Computer
 **STEM-SI Researcher at Lehigh University** - Data Analysis ***Summer 2022***
 ****
 ### 🤖 Technologies
-
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&theme=radical&show_icons=true" />
 <!--
 **JunyiPan-F/JunyiPan-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
